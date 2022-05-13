@@ -62,6 +62,26 @@ MonoBehaviour:
   required: 0
   cacheSize: 1048576
   perThreadCacheSize: 51200
+--- !u!114 &-6325743244183178369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486b5e28864f9a94b979b9620ce5006d, type: 3}
+  m_Name: ConformanceAutomationFeature WSA
+  m_EditorClassIdentifier: 
+  m_enabled: 0
+  nameUi: Conformance Automation
+  version: 0.0.1
+  featureIdInternal: com.unity.openxr.feature.conformance
+  openxrExtensionStrings: XR_EXT_conformance_automation
+  company: Unity
+  priority: 0
+  required: 0
 --- !u!114 &-5143739496509395646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117,7 +137,6 @@ MonoBehaviour:
   features:
   - {fileID: 2092790545807150567}
   - {fileID: 6524798636726263332}
-  - {fileID: -5143739496509395646}
   - {fileID: -4867850053283892810}
   - {fileID: 2894246888962488392}
   - {fileID: 6325950021345504241}
@@ -383,7 +402,6 @@ MonoBehaviour:
   features:
   - {fileID: -8383081894456173603}
   - {fileID: 2056600266619232805}
-  - {fileID: -1699768449653893451}
   - {fileID: -539689952615371145}
   - {fileID: -2630578172734222319}
   - {fileID: 4274729476356719814}
@@ -586,7 +604,7 @@ MonoBehaviour:
   m_Name: WSA
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -8761852266879139384}
+  - {fileID: -6325743244183178369}
   - {fileID: 4090180122281480295}
   - {fileID: 7452428903246970481}
   - {fileID: 4239761354438374078}
