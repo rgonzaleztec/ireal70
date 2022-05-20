@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Principalsala.unity
     guid: 54863d88e59f74045b06c4c984aab8e4
   - enabled: 1
+    path: Assets/Scenes/Tracking.unity
+    guid: 381295c0aa737d041a6eb8bbf5f1124e
+  - enabled: 1
     path: Assets/Scenes/ControlesConocer.unity
     guid: e89fc8b26bd8c7043a6a0d1a9de50c47
   m_configObjects:
