@@ -26,6 +26,11 @@ public class menuActions : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
+    public void LaunchScene3()
+    {
+        SceneManager.LoadScene(3);  
+    }
+
     public void MuteAudio()
     {
         if (audiogeneral.isPlaying)
