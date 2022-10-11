@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Principalsala.unity
-    guid: 54863d88e59f74045b06c4c984aab8e4
+    path: Assets/Scenes/lobbyScene.unity
+    guid: 0368582cebdb2d949ba9987fdb5a8e23
   - enabled: 1
     path: Assets/Scenes/HandController.unity
     guid: 381295c0aa737d041a6eb8bbf5f1124e
@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/ControlesConocer.unity
     guid: e89fc8b26bd8c7043a6a0d1a9de50c47
   - enabled: 1
-    path: Assets/Scenes/TrackingSDKOculus.unity
+    path: Assets/Scenes/PlayGround.unity
     guid: 6028cc21f665dc641b5a8e1626a75eb4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ff64fbbeb80f6ff4f8eac844ad0d3ac9, type: 2}
