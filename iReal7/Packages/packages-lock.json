@@ -89,6 +89,8 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
@@ -103,6 +105,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+>>>>>>> e85cb69454c77967842462548b58ec651d5e06d4
     "com.unity.probuilder": {
       "version": "5.0.6",
       "depth": 0,
@@ -114,6 +117,8 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
     "com.unity.purchasing": {
       "version": "4.4.1",
       "depth": 0,
@@ -139,6 +144,7 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
+>>>>>>> e85cb69454c77967842462548b58ec651d5e06d4
     "com.unity.render-pipelines.universal": {
       "version": "12.1.7",
       "depth": 0,
@@ -150,6 +156,8 @@
         "com.unity.shadergraph": "12.1.7"
       }
     },
+<<<<<<< HEAD
+=======
     "com.unity.searcher": {
       "version": "4.9.1",
       "depth": 2,
@@ -167,6 +175,7 @@
       },
       "url": "https://packages.unity.com"
     },
+>>>>>>> e85cb69454c77967842462548b58ec651d5e06d4
     "com.unity.services.core": {
       "version": "1.4.2",
       "depth": 1,
@@ -185,6 +194,11 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+    "com.unity.subsystemregistration": {
+      "version": "1.0.6",
+      "depth": 2,
+=======
     "com.unity.shadergraph": {
       "version": "12.1.7",
       "depth": 1,
@@ -197,10 +211,9 @@
     "com.unity.subsystemregistration": {
       "version": "1.1.0",
       "depth": 1,
+>>>>>>> e85cb69454c77967842462548b58ec651d5e06d4
       "source": "registry",
-      "dependencies": {
-        "com.unity.modules.subsystems": "1.0.0"
-      },
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
@@ -269,8 +282,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.legacyinputhelpers": {
+<<<<<<< HEAD
+      "version": "2.1.9",
+      "depth": 1,
+=======
       "version": "2.1.10",
       "depth": 0,
+>>>>>>> e85cb69454c77967842462548b58ec651d5e06d4
       "source": "registry",
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
@@ -435,18 +453,6 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.uielementsnative": "1.0.0"
-      }
-    },
-    "com.unity.modules.uielementsnative": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       }
