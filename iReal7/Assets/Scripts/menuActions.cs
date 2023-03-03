@@ -37,13 +37,13 @@ public class MenuActions : MonoBehaviour
     public void LaunchScene1()
     {
         //Agregar una animacion de cambio de escena
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("HandController");
     }
 
     public void LaunchScene2()
     {
         //Agregar una animacion de cambio de escena
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("ControlesConocer");
     }
 
     public void LaunchScene3()
